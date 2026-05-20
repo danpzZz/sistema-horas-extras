@@ -13,7 +13,7 @@ Sistema web para automatizar el procesamiento de archivos Excel provenientes del
 - JWT
 - Multer
 
-## Modelo C4
+## Modelo C1 - C2
 
 ### Nivel 1: Diagrama de Contexto
 
