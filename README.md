@@ -17,12 +17,12 @@ Sistema web para automatizar el procesamiento de archivos Excel provenientes del
 
 ### Nivel 1: Diagrama de Contexto
 
-![C1 Contexto](diagrams/c1-contexto.png)
+![C1 Contexto](DIAGRAMAS/C1_Contexto.png)
 
 ### Nivel 2: Diagrama de Contenedores
 
-![C2 Contenedores](diagrams/c2-contenedores.png)
+![C2 Contenedores](DIAGRAMAS/C2_Contenedores.png)
 
 ## ADR
 
-- [ADR-001: Uso de PostgreSQL como Base de Datos](adrs/ADR-001-base-datos-postgresql.md)
+- [ADR-001: Uso de PostgreSQL como Base de Datos](ADRS/ADR-001-base-datos-postgresql.md)
